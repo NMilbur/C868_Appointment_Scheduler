@@ -10,7 +10,7 @@ namespace Milburn_Appointment_Scheduler.Models
 {
     class DatabaseHandler
     {
-        private string connectionString = @"server=wgudb.ucertify.com;userid=U08N7j;password=53689336285;database=U08N7j";
+        private string connectionString = @"";
 
         public DatabaseHandler() { }
 
